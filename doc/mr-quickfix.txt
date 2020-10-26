@@ -1,0 +1,30 @@
+*mr-quickfix.txt*		Mr.vim plugin to list MRU/MRW on quickfix
+
+Author:  Alisue <lambdalisue@hashnote.net>
+License: MIT license
+
+=============================================================================
+CONTENTS					*mr-quickfix-contents*
+
+INTRODUCTION				|mr-quickfix-introduction|
+USAGE					|mr-quickfix-usage|
+INTERFACE				|mr-quickfix-interface|
+
+
+=============================================================================
+INTRODUCTION					*mr-quickfix-introduction*
+
+TBW
+
+=============================================================================
+USAGE						*mr-quickfix-usage*
+
+TBW
+
+=============================================================================
+INTERFACE					*mr-quickfix-interface*
+
+TBW
+
+=============================================================================
+vim:tw=78:fo=tcq2mM:ts=8:ft=help:norl
